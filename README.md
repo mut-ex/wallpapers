@@ -38,7 +38,7 @@
 
 
 - ## skyship.png
-![skyship](https://github.com/turing753/wallpapers/blob/master/skyship.jpg)
+![skyship](https://github.com/turing753/wallpapers/blob/master/skyship.png)
 
 
 - ## spacemansilhouette.jpg
