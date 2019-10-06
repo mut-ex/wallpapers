@@ -9,9 +9,6 @@
 ## abstractstrands.jpg
 ![abstractstrands.jpg](https://github.com/turing753/wallpapers/blob/master/abstractstrands.jpg)
 
-## astronautshrugged.jpg
-![astronautshrugged.jpg](https://github.com/turing753/wallpapers/blob/master/astronautshrugged.jpg)
-
 ## bladerunner.jpg
 ![bladerunner.jpg](https://github.com/turing753/wallpapers/blob/master/bladerunner.jpg)
 
@@ -21,11 +18,32 @@
 ## cleansunsetart.jpg
 ![cleansunsetart.jpg](https://github.com/turing753/wallpapers/blob/master/cleansunsetart.jpg)
 
+## colorfulcurves.jpg
+![colorfulcurves.jpg](https://github.com/turing753/wallpapers/blob/master/colorfulcurves.jpg)
+
 ## cozysoftforrest.jpg
 ![cozysoftforrest.jpg](https://github.com/turing753/wallpapers/blob/master/cozysoftforrest.jpg)
 
+## crowdedfuture.jpg
+![crowdedfuture.jpg](https://github.com/turing753/wallpapers/blob/master/crowdedfuture.jpg)
+
+## cyberpunkhead.jpg
+![cyberpunkhead.jpg](https://github.com/turing753/wallpapers/blob/master/cyberpunkhead.jpg)
+
+## dalek.jpg
+![dalek.jpg](https://github.com/turing753/wallpapers/blob/master/dalek.jpg)
+
+## desolatelandscape.jpg
+![desolatelandscape.jpg](https://github.com/turing753/wallpapers/blob/master/desolatelandscape.jpg)
+
 ## edgy.jpg
 ![edgy.jpg](https://github.com/turing753/wallpapers/blob/master/edgy.jpg)
+
+## firewatchguy.jpg
+![firewatchguy.jpg](https://github.com/turing753/wallpapers/blob/master/firewatchguy.jpg)
+
+## floatinghead.jpg
+![floatinghead.jpg](https://github.com/turing753/wallpapers/blob/master/floatinghead.jpg)
 
 ## forestlake.jpg
 ![forestlake.jpg](https://github.com/turing753/wallpapers/blob/master/forestlake.jpg)
@@ -48,8 +66,17 @@
 ## laserneonbeams.jpg
 ![laserneonbeams.jpg](https://github.com/turing753/wallpapers/blob/master/laserneonbeams.jpg)
 
+## mastermindgoredigitalart.jpg
+![mastermindgoredigitalart.jpg](https://github.com/turing753/wallpapers/blob/master/mastermindgoredigitalart.jpg)
+
+## minimalmountains.jpg
+![minimalmountains.jpg](https://github.com/turing753/wallpapers/blob/master/minimalmountains.jpg)
+
 ## monsterog.jpg
 ![monsterog.jpg](https://github.com/turing753/wallpapers/blob/master/monsterog.jpg)
+
+## moonlightblue.jpg
+![moonlightblue.jpg](https://github.com/turing753/wallpapers/blob/master/moonlightblue.jpg)
 
 ## movingcastle.jpg
 ![movingcastle.jpg](https://github.com/turing753/wallpapers/blob/master/movingcastle.jpg)
@@ -57,8 +84,8 @@
 ## nebula.jpg
 ![nebula.jpg](https://github.com/turing753/wallpapers/blob/master/nebula.jpg)
 
-## neonwomanglasses.jpg
-![neonwomanglasses.jpg](https://github.com/turing753/wallpapers/blob/master/neonwomanglasses.jpg)
+## neonmotel.jpg
+![neonmotel.jpg](https://github.com/turing753/wallpapers/blob/master/neonmotel.jpg)
 
 ## robomonsterkitty.jpg
 ![robomonsterkitty.jpg](https://github.com/turing753/wallpapers/blob/master/robomonsterkitty.jpg)
@@ -75,17 +102,20 @@
 ## sereneforest.jpg
 ![sereneforest.jpg](https://github.com/turing753/wallpapers/blob/master/sereneforest.jpg)
 
-## settingsunforest.jpg
-![settingsunforest.jpg](https://github.com/turing753/wallpapers/blob/master/settingsunforest.jpg)
-
 ## sixarms.jpg
 ![sixarms.jpg](https://github.com/turing753/wallpapers/blob/master/sixarms.jpg)
+
+## skyship.jpg
+![skyship.jpg](https://github.com/turing753/wallpapers/blob/master/skyship.jpg)
 
 ## spacemansilhouette.jpg
 ![spacemansilhouette.jpg](https://github.com/turing753/wallpapers/blob/master/spacemansilhouette.jpg)
 
-## sunsetpaintingsea.jpg
-![sunsetpaintingsea.jpg](https://github.com/turing753/wallpapers/blob/master/sunsetpaintingsea.jpg)
+## tardistimevortex.jpg
+![tardistimevortex.jpg](https://github.com/turing753/wallpapers/blob/master/tardistimevortex.jpg)
+
+## tiger.jpg
+![tiger.jpg](https://github.com/turing753/wallpapers/blob/master/tiger.jpg)
 
 ## vividnightlandscape.jpg
 ![vividnightlandscape.jpg](https://github.com/turing753/wallpapers/blob/master/vividnightlandscape.jpg)
@@ -99,29 +129,8 @@
 ## warriorlandscape.jpg
 ![warriorlandscape.jpg](https://github.com/turing753/wallpapers/blob/master/warriorlandscape.jpg)
 
-## astronautcrawlingedited.png
-![astronautcrawlingedited.png](https://github.com/turing753/wallpapers/blob/master/astronautcrawlingedited.png)
-
-## firewatchguy.png
-![firewatchguy.png](https://github.com/turing753/wallpapers/blob/master/firewatchguy.png)
-
-## floatinghead.png
-![floatinghead.png](https://github.com/turing753/wallpapers/blob/master/floatinghead.png)
-
-## minimalmountains.png
-![minimalmountains.png](https://github.com/turing753/wallpapers/blob/master/minimalmountains.png)
-
-## moonlightblue.png
-![moonlightblue.png](https://github.com/turing753/wallpapers/blob/master/moonlightblue.png)
-
-## skyship.png
-![skyship.png](https://github.com/turing753/wallpapers/blob/master/skyship.png)
-
-## tiger.png
-![tiger.png](https://github.com/turing753/wallpapers/blob/master/tiger.png)
-
-## whale.png
-![whale.png](https://github.com/turing753/wallpapers/blob/master/whale.png)
+## whale.jpg
+![whale.jpg](https://github.com/turing753/wallpapers/blob/master/whale.jpg)
 
 ## Note
 I did not create any of these wallpapers. I did tweak the colors, clean-up, and resize most of them. If you are the original creator and would like for me to remove your work, please let me know.

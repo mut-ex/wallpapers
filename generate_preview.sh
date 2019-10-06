@@ -3,7 +3,7 @@
 rm README.md
 echo "# wallpapers" >> README.md
 
-for filename in *.jpg *.png;
+for filename in *.jpg;
 do
   echo "\n## ""$filename""\n![""$filename""](https://github.com/turing753/wallpapers/blob/master/""$filename"")" >> README.md
 done
