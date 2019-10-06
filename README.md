@@ -9,6 +9,12 @@
 ## abstractstrands.jpg
 ![abstractstrands.jpg](https://github.com/turing753/wallpapers/blob/master/abstractstrands.jpg)
 
+## astronautcrawling.jpg
+![astronautcrawling.jpg](https://github.com/turing753/wallpapers/blob/master/astronautcrawling.jpg)
+
+## astronautshrugged.jpg
+![astronautshrugged.jpg](https://github.com/turing753/wallpapers/blob/master/astronautshrugged.jpg)
+
 ## bladerunner.jpg
 ![bladerunner.jpg](https://github.com/turing753/wallpapers/blob/master/bladerunner.jpg)
 
@@ -57,6 +63,9 @@
 ## giantmonuments.jpg
 ![giantmonuments.jpg](https://github.com/turing753/wallpapers/blob/master/giantmonuments.jpg)
 
+## houseontheedge.jpg
+![houseontheedge.jpg](https://github.com/turing753/wallpapers/blob/master/houseontheedge.jpg)
+
 ## japaneseneonsign.jpg
 ![japaneseneonsign.jpg](https://github.com/turing753/wallpapers/blob/master/japaneseneonsign.jpg)
 
@@ -87,6 +96,9 @@
 ## neonmotel.jpg
 ![neonmotel.jpg](https://github.com/turing753/wallpapers/blob/master/neonmotel.jpg)
 
+## neonwomanglasses.jpg
+![neonwomanglasses.jpg](https://github.com/turing753/wallpapers/blob/master/neonwomanglasses.jpg)
+
 ## robomonsterkitty.jpg
 ![robomonsterkitty.jpg](https://github.com/turing753/wallpapers/blob/master/robomonsterkitty.jpg)
 
@@ -102,6 +114,9 @@
 ## sereneforest.jpg
 ![sereneforest.jpg](https://github.com/turing753/wallpapers/blob/master/sereneforest.jpg)
 
+## settingsunforest.jpg
+![settingsunforest.jpg](https://github.com/turing753/wallpapers/blob/master/settingsunforest.jpg)
+
 ## sixarms.jpg
 ![sixarms.jpg](https://github.com/turing753/wallpapers/blob/master/sixarms.jpg)
 
@@ -110,6 +125,9 @@
 
 ## spacemansilhouette.jpg
 ![spacemansilhouette.jpg](https://github.com/turing753/wallpapers/blob/master/spacemansilhouette.jpg)
+
+## sunsetpaintingsea.jpg
+![sunsetpaintingsea.jpg](https://github.com/turing753/wallpapers/blob/master/sunsetpaintingsea.jpg)
 
 ## tardistimevortex.jpg
 ![tardistimevortex.jpg](https://github.com/turing753/wallpapers/blob/master/tardistimevortex.jpg)
