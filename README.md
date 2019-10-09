@@ -57,9 +57,6 @@
 ## desolatelandscape.jpg
 ![desolatelandscape.jpg](https://github.com/turing753/wallpapers/blob/master/desolatelandscape.jpg)
 
-## edgy.jpg
-![edgy.jpg](https://github.com/turing753/wallpapers/blob/master/edgy.jpg)
-
 ## empireinruins.jpg
 ![empireinruins.jpg](https://github.com/turing753/wallpapers/blob/master/empireinruins.jpg)
 
