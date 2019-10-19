@@ -1,3 +1,7 @@
+
+## N.B.
+I did not create any of these wallpapers. I did tweak the colors, clean-up noise, and resize most of them. If you are the original creator and would like for me to remove your work, please let me know.
+
 # wallpapers
 
 ## 3dskull.jpg
@@ -9,11 +13,17 @@
 ## abstractstrands.jpg
 ![abstractstrands.jpg](https://github.com/turing753/wallpapers/blob/master/abstractstrands.jpg)
 
+## adventuretime.jpg
+![adventuretime.jpg](https://github.com/turing753/wallpapers/blob/master/adventuretime.jpg)
+
 ## alleyesonyou.jpg
 ![alleyesonyou.jpg](https://github.com/turing753/wallpapers/blob/master/alleyesonyou.jpg)
 
 ## almostsetsun.jpg
 ![almostsetsun.jpg](https://github.com/turing753/wallpapers/blob/master/almostsetsun.jpg)
+
+## andtherocketflewoverthesun.jpg
+![andtherocketflewoverthesun.jpg](https://github.com/turing753/wallpapers/blob/master/andtherocketflewoverthesun.jpg)
 
 ## arcticwonderland.jpg
 ![arcticwonderland.jpg](https://github.com/turing753/wallpapers/blob/master/arcticwonderland.jpg)
@@ -51,6 +61,9 @@
 ## crowdedfuture.jpg
 ![crowdedfuture.jpg](https://github.com/turing753/wallpapers/blob/master/crowdedfuture.jpg)
 
+## crowhangingaroundinaforest.jpg
+![crowhangingaroundinaforest.jpg](https://github.com/turing753/wallpapers/blob/master/crowhangingaroundinaforest.jpg)
+
 ## cyberpunkhead.jpg
 ![cyberpunkhead.jpg](https://github.com/turing753/wallpapers/blob/master/cyberpunkhead.jpg)
 
@@ -59,6 +72,9 @@
 
 ## desolatelandscape.jpg
 ![desolatelandscape.jpg](https://github.com/turing753/wallpapers/blob/master/desolatelandscape.jpg)
+
+## discowolf.jpg
+![discowolf.jpg](https://github.com/turing753/wallpapers/blob/master/discowolf.jpg)
 
 ## eastasianarchitecture.jpg
 ![eastasianarchitecture.jpg](https://github.com/turing753/wallpapers/blob/master/eastasianarchitecture.jpg)
@@ -111,6 +127,9 @@
 ## listentoyourheart.jpg
 ![listentoyourheart.jpg](https://github.com/turing753/wallpapers/blob/master/listentoyourheart.jpg)
 
+## majesticphoenix.jpg
+![majesticphoenix.jpg](https://github.com/turing753/wallpapers/blob/master/majesticphoenix.jpg)
+
 ## mastermindgoredigitalart.jpg
 ![mastermindgoredigitalart.jpg](https://github.com/turing753/wallpapers/blob/master/mastermindgoredigitalart.jpg)
 
@@ -125,6 +144,9 @@
 
 ## movingcastle.jpg
 ![movingcastle.jpg](https://github.com/turing753/wallpapers/blob/master/movingcastle.jpg)
+
+## mypetandi.jpg
+![mypetandi.jpg](https://github.com/turing753/wallpapers/blob/master/mypetandi.jpg)
 
 ## mysticalbeast.jpg
 ![mysticalbeast.jpg](https://github.com/turing753/wallpapers/blob/master/mysticalbeast.jpg)
@@ -155,6 +177,9 @@
 
 ## redgiant.jpg
 ![redgiant.jpg](https://github.com/turing753/wallpapers/blob/master/redgiant.jpg)
+
+## ricefieldsatsunset.jpg
+![ricefieldsatsunset.jpg](https://github.com/turing753/wallpapers/blob/master/ricefieldsatsunset.jpg)
 
 ## robomonsterkitty.jpg
 ![robomonsterkitty.jpg](https://github.com/turing753/wallpapers/blob/master/robomonsterkitty.jpg)
@@ -189,6 +214,9 @@
 ## spacingout.jpg
 ![spacingout.jpg](https://github.com/turing753/wallpapers/blob/master/spacingout.jpg)
 
+## squirrelinaforest.jpg
+![squirrelinaforest.jpg](https://github.com/turing753/wallpapers/blob/master/squirrelinaforest.jpg)
+
 ## sunsetonanalienplanet.jpg
 ![sunsetonanalienplanet.jpg](https://github.com/turing753/wallpapers/blob/master/sunsetonanalienplanet.jpg)
 
@@ -221,6 +249,3 @@
 
 ## whale.jpg
 ![whale.jpg](https://github.com/turing753/wallpapers/blob/master/whale.jpg)
-
-## Note
-I did not create any of these wallpapers. I did tweak the colors, clean-up, and resize most of them. If you are the original creator and would like for me to remove your work, please let me know.
