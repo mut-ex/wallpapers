@@ -73,8 +73,11 @@ I did not create any of these wallpapers. I did tweak the colors, clean-up noise
 ## desolatelandscape.jpg
 ![desolatelandscape.jpg](https://github.com/turing753/wallpapers/blob/master/desolatelandscape.jpg)
 
-## discowolf.jpg
-![discowolf.jpg](https://github.com/turing753/wallpapers/blob/master/discowolf.jpg)
+## discodingo.jpg
+![discodingo.jpg](https://github.com/turing753/wallpapers/blob/master/discodingo.jpg)
+
+## drivingthroughstreetsofjapan.jpg
+![drivingthroughstreetsofjapan.jpg](https://github.com/turing753/wallpapers/blob/master/drivingthroughstreetsofjapan.jpg)
 
 ## eastasianarchitecture.jpg
 ![eastasianarchitecture.jpg](https://github.com/turing753/wallpapers/blob/master/eastasianarchitecture.jpg)
@@ -183,6 +186,9 @@ I did not create any of these wallpapers. I did tweak the colors, clean-up noise
 
 ## robomonsterkitty.jpg
 ![robomonsterkitty.jpg](https://github.com/turing753/wallpapers/blob/master/robomonsterkitty.jpg)
+
+## robopackmule.jpg
+![robopackmule.jpg](https://github.com/turing753/wallpapers/blob/master/robopackmule.jpg)
 
 ## robotscanenjoythesunsettoo.jpg
 ![robotscanenjoythesunsettoo.jpg](https://github.com/turing753/wallpapers/blob/master/robotscanenjoythesunsettoo.jpg)
