@@ -130,6 +130,9 @@ I did not create any of these wallpapers. I did tweak the colors, clean-up noise
 ## listentoyourheart.jpg
 ![listentoyourheart.jpg](https://github.com/turing753/wallpapers/blob/master/listentoyourheart.jpg)
 
+## lowpolysunset.jpg
+![lowpolysunset.jpg](https://github.com/turing753/wallpapers/blob/master/lowpolysunset.jpg)
+
 ## majesticphoenix.jpg
 ![majesticphoenix.jpg](https://github.com/turing753/wallpapers/blob/master/majesticphoenix.jpg)
 
@@ -252,6 +255,9 @@ I did not create any of these wallpapers. I did tweak the colors, clean-up noise
 
 ## warriorlandscape.jpg
 ![warriorlandscape.jpg](https://github.com/turing753/wallpapers/blob/master/warriorlandscape.jpg)
+
+## welostthesea.jpg
+![welostthesea.jpg](https://github.com/turing753/wallpapers/blob/master/welostthesea.jpg)
 
 ## whale.jpg
 ![whale.jpg](https://github.com/turing753/wallpapers/blob/master/whale.jpg)
