@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/zsh
 
 # NOTE: this script should be run from the wallpapers root directory.
 
@@ -14,7 +14,7 @@ generate_file() {
     echo "# wallpapers"
     echo "$nb_note"
 
-    for filename in *.jpg; do
+    for filename (*.jpg(om)); do
         printf "\n## %s\n\n![%s](%s)\n" "$filename" "$filename" "$filename"
     done
 }
