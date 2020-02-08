@@ -7,6 +7,14 @@ I did not create any of these wallpapers. I did tweak the colors, clean-up noise
 and resize most of them. If you are the original creator and would like for me
 to remove your work, please let me know.
 
+## abstractblob.jpg
+
+![abstractblob.jpg](abstractblob.jpg)
+
+## serenegreen.jpg
+
+![serenegreen.jpg](serenegreen.jpg)
+
 ## abovethemountains.jpg
 
 ![abovethemountains.jpg](abovethemountains.jpg)
