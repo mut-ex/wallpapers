@@ -7,390 +7,398 @@ I did not create any of these wallpapers. I did tweak the colors, clean-up noise
 and resize most of them. If you are the original creator and would like for me
 to remove your work, please let me know.
 
-## abstractblob.jpg
+## 3dskull.jpg
 
-![abstractblob.jpg](abstractblob.jpg)
-
-## serenegreen.jpg
-
-![serenegreen.jpg](serenegreen.jpg)
+![wallpapers/3dskull.jpg](wallpapers/3dskull.jpg)
 
 ## abovethemountains.jpg
 
-![abovethemountains.jpg](abovethemountains.jpg)
-
-## solarsystem.jpg
-
-![solarsystem.jpg](solarsystem.jpg)
-
-## troubledwaters.jpg
-
-![troubledwaters.jpg](troubledwaters.jpg)
-
-## retrogradient.jpg
-
-![retrogradient.jpg](retrogradient.jpg)
-
-## samuraijack.jpg
-
-![samuraijack.jpg](samuraijack.jpg)
-
-## whale.jpg
-
-![whale.jpg](whale.jpg)
-
-## welostthesea.jpg
-
-![welostthesea.jpg](welostthesea.jpg)
-
-## warriorlandscape.jpg
-
-![warriorlandscape.jpg](warriorlandscape.jpg)
-
-## warmlandscape.jpg
-
-![warmlandscape.jpg](warmlandscape.jpg)
-
-## vividvoxelcables.jpg
-
-![vividvoxelcables.jpg](vividvoxelcables.jpg)
-
-## vividnightlandscape.jpg
-
-![vividnightlandscape.jpg](vividnightlandscape.jpg)
-
-## vashtanerada.jpg
-
-![vashtanerada.jpg](vashtanerada.jpg)
-
-## trianglesvivid.jpg
-
-![trianglesvivid.jpg](trianglesvivid.jpg)
-
-## tiger.jpg
-
-![tiger.jpg](tiger.jpg)
-
-## tardistimevortex.jpg
-
-![tardistimevortex.jpg](tardistimevortex.jpg)
-
-## sunsetpaintingsea.jpg
-
-![sunsetpaintingsea.jpg](sunsetpaintingsea.jpg)
-
-## sunsetonanalienplanet.jpg
-
-![sunsetonanalienplanet.jpg](sunsetonanalienplanet.jpg)
-
-## squirrelinaforest.jpg
-
-![squirrelinaforest.jpg](squirrelinaforest.jpg)
-
-## spacemansilhouette.jpg
-
-![spacemansilhouette.jpg](spacemansilhouette.jpg)
-
-## spacingout.jpg
-
-![spacingout.jpg](spacingout.jpg)
-
-## skyship.jpg
-
-![skyship.jpg](skyship.jpg)
-
-## sixarms.jpg
-
-![sixarms.jpg](sixarms.jpg)
-
-## settingsunforest.jpg
-
-![settingsunforest.jpg](settingsunforest.jpg)
-
-## sereneforest.jpg
-
-![sereneforest.jpg](sereneforest.jpg)
-
-## samuraimummy.jpg
-
-![samuraimummy.jpg](samuraimummy.jpg)
-
-## samuraihat.jpg
-
-![samuraihat.jpg](samuraihat.jpg)
-
-## robotscanenjoythesunsettoo.jpg
-
-![robotscanenjoythesunsettoo.jpg](robotscanenjoythesunsettoo.jpg)
-
-## robopackmule.jpg
-
-![robopackmule.jpg](robopackmule.jpg)
-
-## robomonsterkitty.jpg
-
-![robomonsterkitty.jpg](robomonsterkitty.jpg)
-
-## ricefieldsatsunset.jpg
-
-![ricefieldsatsunset.jpg](ricefieldsatsunset.jpg)
-
-## redgiant.jpg
-
-![redgiant.jpg](redgiant.jpg)
-
-## prodigalsonreturns.jpg
-
-![prodigalsonreturns.jpg](prodigalsonreturns.jpg)
-
-## planetexpress.jpg
-
-![planetexpress.jpg](planetexpress.jpg)
-
-## paperdino.jpg
-
-![paperdino.jpg](paperdino.jpg)
-
-## outtatime.jpg
-
-![outtatime.jpg](outtatime.jpg)
-
-## organicvivid.jpg
-
-![organicvivid.jpg](organicvivid.jpg)
-
-## noworries.jpg
-
-![noworries.jpg](noworries.jpg)
-
-## neonwomanglasses.jpg
-
-![neonwomanglasses.jpg](neonwomanglasses.jpg)
-
-## neonnostalgia.jpg
-
-![neonnostalgia.jpg](neonnostalgia.jpg)
-
-## neongasstation.jpg
-
-![neongasstation.jpg](neongasstation.jpg)
-
-## nebula.jpg
-
-![nebula.jpg](nebula.jpg)
-
-## mysticalbeast.jpg
-
-![mysticalbeast.jpg](mysticalbeast.jpg)
-
-## mypetandi.jpg
-
-![mypetandi.jpg](mypetandi.jpg)
-
-## movingcastle.jpg
-
-![movingcastle.jpg](movingcastle.jpg)
-
-## moonlightblue.jpg
-
-![moonlightblue.jpg](moonlightblue.jpg)
-
-## monsterog.jpg
-
-![monsterog.jpg](monsterog.jpg)
-
-## minimalmountains.jpg
-
-![minimalmountains.jpg](minimalmountains.jpg)
-
-## mastermindgoredigitalart.jpg
-
-![mastermindgoredigitalart.jpg](mastermindgoredigitalart.jpg)
-
-## majesticphoenix.jpg
-
-![majesticphoenix.jpg](majesticphoenix.jpg)
-
-## lowpolysunset.jpg
-
-![lowpolysunset.jpg](lowpolysunset.jpg)
-
-## listentoyourheart.jpg
-
-![listentoyourheart.jpg](listentoyourheart.jpg)
-
-## laserneonbeams.jpg
-
-![laserneonbeams.jpg](laserneonbeams.jpg)
-
-## laserbeams.jpg
-
-![laserbeams.jpg](laserbeams.jpg)
-
-## landscapebright.jpg
-
-![landscapebright.jpg](landscapebright.jpg)
-
-## koiinapond.jpg
-
-![koiinapond.jpg](koiinapond.jpg)
-
-## isitmyescape.jpg
-
-![isitmyescape.jpg](isitmyescape.jpg)
-
-## inspacenoonecanhearyouscream.jpg
-
-![inspacenoonecanhearyouscream.jpg](inspacenoonecanhearyouscream.jpg)
-
-## houseontheedge.jpg
-
-![houseontheedge.jpg](houseontheedge.jpg)
-
-## giantmonuments.jpg
-
-![giantmonuments.jpg](giantmonuments.jpg)
-
-## futureutopia.jpg
-
-![futureutopia.jpg](futureutopia.jpg)
-
-## futurespace.jpg
-
-![futurespace.jpg](futurespace.jpg)
-
-## forestofcolors.jpg
-
-![forestofcolors.jpg](forestofcolors.jpg)
-
-## forestlake.jpg
-
-![forestlake.jpg](forestlake.jpg)
-
-## floatingworld.jpg
-
-![floatingworld.jpg](floatingworld.jpg)
-
-## floatinghead.jpg
-
-![floatinghead.jpg](floatinghead.jpg)
-
-## firewatchguy.jpg
-
-![firewatchguy.jpg](firewatchguy.jpg)
-
-## eyeofsauron.jpg
-
-![eyeofsauron.jpg](eyeofsauron.jpg)
-
-## empireinruins.jpg
-
-![empireinruins.jpg](empireinruins.jpg)
-
-## eastasianarchitecture.jpg
-
-![eastasianarchitecture.jpg](eastasianarchitecture.jpg)
-
-## drivingthroughstreetsofjapan.jpg
-
-![drivingthroughstreetsofjapan.jpg](drivingthroughstreetsofjapan.jpg)
-
-## discodingo.jpg
-
-![discodingo.jpg](discodingo.jpg)
-
-## desolatelandscape.jpg
-
-![desolatelandscape.jpg](desolatelandscape.jpg)
-
-## denseneighborhood.jpg
-
-![denseneighborhood.jpg](denseneighborhood.jpg)
-
-## dalek.jpg
-
-![dalek.jpg](dalek.jpg)
-
-## cyberpunkhead.jpg
-
-![cyberpunkhead.jpg](cyberpunkhead.jpg)
-
-## crowhangingaroundinaforest.jpg
-
-![crowhangingaroundinaforest.jpg](crowhangingaroundinaforest.jpg)
-
-## crowdedfuture.jpg
-
-![crowdedfuture.jpg](crowdedfuture.jpg)
-
-## cozysoftforrest.jpg
-
-![cozysoftforrest.jpg](cozysoftforrest.jpg)
-
-## colorfulcurves.jpg
-
-![colorfulcurves.jpg](colorfulcurves.jpg)
-
-## cleansunsetart.jpg
-
-![cleansunsetart.jpg](cleansunsetart.jpg)
-
-## chineseneonsign.jpg
-
-![chineseneonsign.jpg](chineseneonsign.jpg)
-
-## cabininthelake.jpg
-
-![cabininthelake.jpg](cabininthelake.jpg)
-
-## busydragons.jpg
-
-![busydragons.jpg](busydragons.jpg)
-
-## bladerunner.jpg
-
-![bladerunner.jpg](bladerunner.jpg)
-
-## beastlybird.jpg
-
-![beastlybird.jpg](beastlybird.jpg)
-
-## astronautshrugged.jpg
-
-![astronautshrugged.jpg](astronautshrugged.jpg)
-
-## astronautcrawling.jpg
-
-![astronautcrawling.jpg](astronautcrawling.jpg)
-
-## arcticwonderland.jpg
-
-![arcticwonderland.jpg](arcticwonderland.jpg)
-
-## andtherocketflewoverthesun.jpg
-
-![andtherocketflewoverthesun.jpg](andtherocketflewoverthesun.jpg)
-
-## almostsetsun.jpg
-
-![almostsetsun.jpg](almostsetsun.jpg)
-
-## alleyesonyou.jpg
-
-![alleyesonyou.jpg](alleyesonyou.jpg)
-
-## adventuretime.jpg
-
-![adventuretime.jpg](adventuretime.jpg)
-
-## abstractstrands.jpg
-
-![abstractstrands.jpg](abstractstrands.jpg)
+![wallpapers/abovethemountains.jpg](wallpapers/abovethemountains.jpg)
 
 ## abstract.jpg
 
-![abstract.jpg](abstract.jpg)
+![wallpapers/abstract.jpg](wallpapers/abstract.jpg)
 
-## 3dskull.jpg
+## abstractblob.jpg
 
-![3dskull.jpg](3dskull.jpg)
+![wallpapers/abstractblob.jpg](wallpapers/abstractblob.jpg)
+
+## abstractstrands.jpg
+
+![wallpapers/abstractstrands.jpg](wallpapers/abstractstrands.jpg)
+
+## adventuretime.jpg
+
+![wallpapers/adventuretime.jpg](wallpapers/adventuretime.jpg)
+
+## alleyesonyou.jpg
+
+![wallpapers/alleyesonyou.jpg](wallpapers/alleyesonyou.jpg)
+
+## almostsetsun.jpg
+
+![wallpapers/almostsetsun.jpg](wallpapers/almostsetsun.jpg)
+
+## andtherocketflewoverthesun.jpg
+
+![wallpapers/andtherocketflewoverthesun.jpg](wallpapers/andtherocketflewoverthesun.jpg)
+
+## arcticwonderland.jpg
+
+![wallpapers/arcticwonderland.jpg](wallpapers/arcticwonderland.jpg)
+
+## astronautcrawling.jpg
+
+![wallpapers/astronautcrawling.jpg](wallpapers/astronautcrawling.jpg)
+
+## astronautcrawling.png
+
+![wallpapers/astronautcrawling.png](wallpapers/astronautcrawling.png)
+
+## astronautshrugged.jpg
+
+![wallpapers/astronautshrugged.jpg](wallpapers/astronautshrugged.jpg)
+
+## beastlybird.jpg
+
+![wallpapers/beastlybird.jpg](wallpapers/beastlybird.jpg)
+
+## blackglass.png
+
+![wallpapers/blackglass.png](wallpapers/blackglass.png)
+
+## bladerunner.jpg
+
+![wallpapers/bladerunner.jpg](wallpapers/bladerunner.jpg)
+
+## busydragons.jpg
+
+![wallpapers/busydragons.jpg](wallpapers/busydragons.jpg)
+
+## cabininthelake.jpg
+
+![wallpapers/cabininthelake.jpg](wallpapers/cabininthelake.jpg)
+
+## chineseneonsign.jpg
+
+![wallpapers/chineseneonsign.jpg](wallpapers/chineseneonsign.jpg)
+
+## cleansunsetart.jpg
+
+![wallpapers/cleansunsetart.jpg](wallpapers/cleansunsetart.jpg)
+
+## colorfulcurves.jpg
+
+![wallpapers/colorfulcurves.jpg](wallpapers/colorfulcurves.jpg)
+
+## cozysoftforrest.jpg
+
+![wallpapers/cozysoftforrest.jpg](wallpapers/cozysoftforrest.jpg)
+
+## crowdedfuture.jpg
+
+![wallpapers/crowdedfuture.jpg](wallpapers/crowdedfuture.jpg)
+
+## crowhangingaroundinaforest.jpg
+
+![wallpapers/crowhangingaroundinaforest.jpg](wallpapers/crowhangingaroundinaforest.jpg)
+
+## cyberpunkhead.jpg
+
+![wallpapers/cyberpunkhead.jpg](wallpapers/cyberpunkhead.jpg)
+
+## dalek.jpg
+
+![wallpapers/dalek.jpg](wallpapers/dalek.jpg)
+
+## denseneighborhood.jpg
+
+![wallpapers/denseneighborhood.jpg](wallpapers/denseneighborhood.jpg)
+
+## desolatelandscape.jpg
+
+![wallpapers/desolatelandscape.jpg](wallpapers/desolatelandscape.jpg)
+
+## discodingo.jpg
+
+![wallpapers/discodingo.jpg](wallpapers/discodingo.jpg)
+
+## drivingthroughstreetsofjapan.jpg
+
+![wallpapers/drivingthroughstreetsofjapan.jpg](wallpapers/drivingthroughstreetsofjapan.jpg)
+
+## eastasianarchitecture.jpg
+
+![wallpapers/eastasianarchitecture.jpg](wallpapers/eastasianarchitecture.jpg)
+
+## empireinruins.jpg
+
+![wallpapers/empireinruins.jpg](wallpapers/empireinruins.jpg)
+
+## eyeofsauron.jpg
+
+![wallpapers/eyeofsauron.jpg](wallpapers/eyeofsauron.jpg)
+
+## firewatchguy.jpg
+
+![wallpapers/firewatchguy.jpg](wallpapers/firewatchguy.jpg)
+
+## floatinghead.jpg
+
+![wallpapers/floatinghead.jpg](wallpapers/floatinghead.jpg)
+
+## floatingworld.jpg
+
+![wallpapers/floatingworld.jpg](wallpapers/floatingworld.jpg)
+
+## forestlake.jpg
+
+![wallpapers/forestlake.jpg](wallpapers/forestlake.jpg)
+
+## forestofcolors.jpg
+
+![wallpapers/forestofcolors.jpg](wallpapers/forestofcolors.jpg)
+
+## futurespace.jpg
+
+![wallpapers/futurespace.jpg](wallpapers/futurespace.jpg)
+
+## futureutopia.jpg
+
+![wallpapers/futureutopia.jpg](wallpapers/futureutopia.jpg)
+
+## giantmonuments.jpg
+
+![wallpapers/giantmonuments.jpg](wallpapers/giantmonuments.jpg)
+
+## houseontheedge.jpg
+
+![wallpapers/houseontheedge.jpg](wallpapers/houseontheedge.jpg)
+
+## inspacenoonecanhearyouscream.jpg
+
+![wallpapers/inspacenoonecanhearyouscream.jpg](wallpapers/inspacenoonecanhearyouscream.jpg)
+
+## isitmyescape.jpg
+
+![wallpapers/isitmyescape.jpg](wallpapers/isitmyescape.jpg)
+
+## koiinapond.jpg
+
+![wallpapers/koiinapond.jpg](wallpapers/koiinapond.jpg)
+
+## landscapebright.jpg
+
+![wallpapers/landscapebright.jpg](wallpapers/landscapebright.jpg)
+
+## laserbeams.jpg
+
+![wallpapers/laserbeams.jpg](wallpapers/laserbeams.jpg)
+
+## laserneonbeams.jpg
+
+![wallpapers/laserneonbeams.jpg](wallpapers/laserneonbeams.jpg)
+
+## listentoyourheart.jpg
+
+![wallpapers/listentoyourheart.jpg](wallpapers/listentoyourheart.jpg)
+
+## lowpolysunset.jpg
+
+![wallpapers/lowpolysunset.jpg](wallpapers/lowpolysunset.jpg)
+
+## majesticphoenix.jpg
+
+![wallpapers/majesticphoenix.jpg](wallpapers/majesticphoenix.jpg)
+
+## mastermindgoredigitalart.jpg
+
+![wallpapers/mastermindgoredigitalart.jpg](wallpapers/mastermindgoredigitalart.jpg)
+
+## minimalmountains.jpg
+
+![wallpapers/minimalmountains.jpg](wallpapers/minimalmountains.jpg)
+
+## monsterog.jpg
+
+![wallpapers/monsterog.jpg](wallpapers/monsterog.jpg)
+
+## moonlightblue.jpg
+
+![wallpapers/moonlightblue.jpg](wallpapers/moonlightblue.jpg)
+
+## movingcastle.jpg
+
+![wallpapers/movingcastle.jpg](wallpapers/movingcastle.jpg)
+
+## mypetandi.jpg
+
+![wallpapers/mypetandi.jpg](wallpapers/mypetandi.jpg)
+
+## mysticalbeast.jpg
+
+![wallpapers/mysticalbeast.jpg](wallpapers/mysticalbeast.jpg)
+
+## nebula.jpg
+
+![wallpapers/nebula.jpg](wallpapers/nebula.jpg)
+
+## neongasstation.jpg
+
+![wallpapers/neongasstation.jpg](wallpapers/neongasstation.jpg)
+
+## neonnostalgia.jpg
+
+![wallpapers/neonnostalgia.jpg](wallpapers/neonnostalgia.jpg)
+
+## neonwomanglasses.jpg
+
+![wallpapers/neonwomanglasses.jpg](wallpapers/neonwomanglasses.jpg)
+
+## noworries.jpg
+
+![wallpapers/noworries.jpg](wallpapers/noworries.jpg)
+
+## organicvivid.jpg
+
+![wallpapers/organicvivid.jpg](wallpapers/organicvivid.jpg)
+
+## outtatime.jpg
+
+![wallpapers/outtatime.jpg](wallpapers/outtatime.jpg)
+
+## paperdino.jpg
+
+![wallpapers/paperdino.jpg](wallpapers/paperdino.jpg)
+
+## planetexpress.jpg
+
+![wallpapers/planetexpress.jpg](wallpapers/planetexpress.jpg)
+
+## prodigalsonreturns.jpg
+
+![wallpapers/prodigalsonreturns.jpg](wallpapers/prodigalsonreturns.jpg)
+
+## redgiant.jpg
+
+![wallpapers/redgiant.jpg](wallpapers/redgiant.jpg)
+
+## retrogradient.jpg
+
+![wallpapers/retrogradient.jpg](wallpapers/retrogradient.jpg)
+
+## ricefieldsatsunset.jpg
+
+![wallpapers/ricefieldsatsunset.jpg](wallpapers/ricefieldsatsunset.jpg)
+
+## robomonsterkitty.jpg
+
+![wallpapers/robomonsterkitty.jpg](wallpapers/robomonsterkitty.jpg)
+
+## robopackmule.jpg
+
+![wallpapers/robopackmule.jpg](wallpapers/robopackmule.jpg)
+
+## robotscanenjoythesunsettoo.jpg
+
+![wallpapers/robotscanenjoythesunsettoo.jpg](wallpapers/robotscanenjoythesunsettoo.jpg)
+
+## samuraihat.jpg
+
+![wallpapers/samuraihat.jpg](wallpapers/samuraihat.jpg)
+
+## samuraijack.jpg
+
+![wallpapers/samuraijack.jpg](wallpapers/samuraijack.jpg)
+
+## samuraimummy.jpg
+
+![wallpapers/samuraimummy.jpg](wallpapers/samuraimummy.jpg)
+
+## sereneforest.jpg
+
+![wallpapers/sereneforest.jpg](wallpapers/sereneforest.jpg)
+
+## serenegreen.jpg
+
+![wallpapers/serenegreen.jpg](wallpapers/serenegreen.jpg)
+
+## settingsunforest.jpg
+
+![wallpapers/settingsunforest.jpg](wallpapers/settingsunforest.jpg)
+
+## sixarms.jpg
+
+![wallpapers/sixarms.jpg](wallpapers/sixarms.jpg)
+
+## skyship.jpg
+
+![wallpapers/skyship.jpg](wallpapers/skyship.jpg)
+
+## solarsystem.jpg
+
+![wallpapers/solarsystem.jpg](wallpapers/solarsystem.jpg)
+
+## spacemansilhouette.jpg
+
+![wallpapers/spacemansilhouette.jpg](wallpapers/spacemansilhouette.jpg)
+
+## spacingout.jpg
+
+![wallpapers/spacingout.jpg](wallpapers/spacingout.jpg)
+
+## squirrelinaforest.jpg
+
+![wallpapers/squirrelinaforest.jpg](wallpapers/squirrelinaforest.jpg)
+
+## sunsetonanalienplanet.jpg
+
+![wallpapers/sunsetonanalienplanet.jpg](wallpapers/sunsetonanalienplanet.jpg)
+
+## sunsetpaintingsea.jpg
+
+![wallpapers/sunsetpaintingsea.jpg](wallpapers/sunsetpaintingsea.jpg)
+
+## tardistimevortex.jpg
+
+![wallpapers/tardistimevortex.jpg](wallpapers/tardistimevortex.jpg)
+
+## tiger.jpg
+
+![wallpapers/tiger.jpg](wallpapers/tiger.jpg)
+
+## trianglesvivid.jpg
+
+![wallpapers/trianglesvivid.jpg](wallpapers/trianglesvivid.jpg)
+
+## troubledwaters.jpg
+
+![wallpapers/troubledwaters.jpg](wallpapers/troubledwaters.jpg)
+
+## vashtanerada.jpg
+
+![wallpapers/vashtanerada.jpg](wallpapers/vashtanerada.jpg)
+
+## vividnightlandscape.jpg
+
+![wallpapers/vividnightlandscape.jpg](wallpapers/vividnightlandscape.jpg)
+
+## vividvoxelcables.jpg
+
+![wallpapers/vividvoxelcables.jpg](wallpapers/vividvoxelcables.jpg)
+
+## warmlandscape.jpg
+
+![wallpapers/warmlandscape.jpg](wallpapers/warmlandscape.jpg)
+
+## warriorlandscape.jpg
+
+![wallpapers/warriorlandscape.jpg](wallpapers/warriorlandscape.jpg)
+
+## welostthesea.jpg
+
+![wallpapers/welostthesea.jpg](wallpapers/welostthesea.jpg)
+
+## whale.jpg
+
+![wallpapers/whale.jpg](wallpapers/whale.jpg)
