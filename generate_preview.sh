@@ -14,8 +14,9 @@ generate_file() {
     echo "# wallpapers"
     echo "$nb_note"
 
-    for filename (*.jpg(om)); do
-        printf "\n## %s\n\n![%s](%s)\n" "$filename" "$filename" "$filename"
+    for fullname (wallpapers/*); do
+        filename=$(basename "$fullname")
+        printf "\n## %s\n\n![%s](%s)\n" "$filename" "$fullname" "$fullname"
     done
 }
 
