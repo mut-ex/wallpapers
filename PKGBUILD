@@ -30,7 +30,7 @@ pkgver() {
 }
 
 package() {
-    cd wallpapers
+    cd "${pkgname}"
     mkdir -p ${pkgdir}/usr/share/backgrounds/${pkgname}
     cp -rf wallpapers/* ${pkgdir}/usr/share/backgrounds/${pkgname}
 }
